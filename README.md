@@ -23,4 +23,10 @@ pip freeze
 pip freeze | grep pandas
 ```
 
-* define logging file
+* define logging file 
+
+**Note:** The Logging is a means of tracking events that happen when some software runs.
+
+* define utils/common.py
+
+**Note:** The utils/common.py makes it easy to execute common tasks in Python scripts
