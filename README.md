@@ -22,3 +22,5 @@ pip install -r requirements.txt
 pip freeze
 pip freeze | grep pandas
 ```
+
+* define logging file
