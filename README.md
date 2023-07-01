@@ -47,8 +47,18 @@ Workflows
 ```
 
 ####################**Data Ingestion**##########################
+
 **Note:** **Data ingestion** is the process of importing large, assorted data files from multiple sources into a single, cloud-based storage medium.
 
 * define config/config.yaml --> define constants/__init__.py --> and create 01_data_ingestion.ipynb and run it
 
 * define entity/__init__.py --> define /config/configuration.py --> define components/data_ingestion.py --> define pipeline --> and main.py
+
+
+####################**Data Validation**##########################
+
+**Note:** **Data validation** is the process of ensuring data has undergone data cleansing to confirm they have data quality, that is, that they are both correct and useful.
+
+* define config/config.yaml --> and create 02_data_validation.ipynb and run it
+
+* define entity/__init__.py --> define /config/configuration.py --> define components/data_validation.py --> define pipeline --> define and run main.py
