@@ -62,3 +62,11 @@ Workflows
 * define config/config.yaml --> and create 02_data_validation.ipynb and run it
 
 * define entity/__init__.py --> define /config/configuration.py --> define components/data_validation.py --> define pipeline --> define and run main.py
+
+####################**Data Transformation**##########################
+
+**Note:** **Data transformation** means taking data stored in one format and converting it to another
+
+* define config/config.yaml --> and create 03_data_transformation.ipynb and run it
+
+* define entity/__init__.py --> define /config/configuration.py --> define components/data_transformation.py --> define pipeline --> define and run main.py
