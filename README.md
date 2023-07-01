@@ -30,3 +30,5 @@ pip freeze | grep pandas
 * define utils/common.py
 
 **Note:** The utils/common.py makes it easy to execute common tasks in Python scripts
+
+* run a notebook in google colab for experiment purpose and download it to "research/" dir
