@@ -86,3 +86,9 @@ Workflows
 * define config/config.yaml --> and create 05_model_evaluation.ipynb and run it
 
 * define entity/__init__.py --> define /config/configuration.py --> define components/model_evaluation.py --> define pipeline --> define and run main.py
+
+
+###################**Prediction and UI**################################
+
+* create src/textSummarizer/pipeline/prediction.py
+* create app.py
