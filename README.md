@@ -70,3 +70,19 @@ Workflows
 * define config/config.yaml --> and create 03_data_transformation.ipynb and run it
 
 * define entity/__init__.py --> define /config/configuration.py --> define components/data_transformation.py --> define pipeline --> define and run main.py
+
+####################**Model Training**##########################
+
+
+* define config/config.yaml --> define params.yaml --> and create 04_model_training.ipynb and run it
+
+* define entity/__init__.py --> define /config/configuration.py --> define components/model_training.py --> define pipeline --> define and run main.py
+
+
+
+####################**Model Evaluation**##########################
+
+
+* define config/config.yaml --> and create 05_model_evaluation.ipynb and run it
+
+* define entity/__init__.py --> define /config/configuration.py --> define components/model_evaluation.py --> define pipeline --> define and run main.py
